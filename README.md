@@ -1,2 +1,2 @@
 # LUCASvision
-code to setup dedicated dockers and run the processing pipeline 
+code to run the entire processing pipeline and produce all the figures from the manuscript
